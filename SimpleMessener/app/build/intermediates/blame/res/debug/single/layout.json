@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/raijin/repos/SimpleMessenger/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/raijin/repos/SimpleMessenger/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/raijin/repos/CSE486-1/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/raijin/repos/CSE486-1/app/src/main/res/layout/main.xml"
+    }
+]
